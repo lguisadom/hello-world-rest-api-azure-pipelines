@@ -51,8 +51,8 @@
 				<version>2.9.0</version>
 			    <configuration>
 			        <schemaVersion>v2</schemaVersion>
-			        <resourceGroup>hello-world-rest-api</resourceGroup>
-			        <appName>hello-world-rest-api-lguisadom</appName>
+			        <resourceGroup>01-hello-world-rest-api-rg</resourceGroup>
+			        <appName>01-hello-world-rest-api</appName>
 			        <pricingTier>F1</pricingTier>
 			        <region>westeurope</region>
 			        <appSettings>
